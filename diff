@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Happy Birthday Ilesha 💗</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="book">
+  <div class="page cover">
+    <h1>🎀 Happy Birthday 🎀</h1>
+    <h2>Ilesha Ji 💗</h2>
+    <p>Click to begin ✨</p>
+  </div>
+
+  <div class="page">
+    <h2>Special Moments 💕</h2>
+    <p>Some memories that make this day more beautiful ✨</p>
+    <img src="photo1.jpg">
+    <img src="photo2.jpg">
+  </div>
+
+  <div class="page">
+    <h2>For You 💖</h2>
+    <p>
+      Happy Birthday on this special day 💗<br><br>
+      I hope you enjoy your day with the people who mean the most to you and
+      with moments that make you smile without even realizing it 🥹✨<br><br>
+      May this year bring you beautiful opportunities, unforgettable memories,
+      and success in everything you dream of 🌸
+    </p>
+  </div>
+
+  <div class="page">
+    <p>
+      Celebrate today and cherish every single moment, because you truly
+      deserve nothing but the best 💕<br><br>
+      Being your friend is honestly a blessing, and I’m really grateful for you 🫶<br><br>
+      Sorry for being a little formal 🥰😆❤️🥹💕
+    </p>
+  </div>
+
+  <div class="page">
+    <p>
+      Never stop being you, because the world needs that exact version of you ✨<br><br>
+      Wishing you a wonderful year ahead filled with happiness, health, and
+      smiles 💗<br><br>
+      Once again, Happy Birthday 🎂🎉
+    </p>
+    <audio autoplay loop>
+      <source src="music.mp3" type="audio/mpeg">
+    </audio>
+  </div>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
